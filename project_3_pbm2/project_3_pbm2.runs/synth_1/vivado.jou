@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Mon Oct  6 15:19:45 2025
+# Process ID         : 12732
+# Current directory  : C:/Users/divin/OneDrive/Documents/Education/Fall2025/Classes/CSE320/Projects/Project3/project_3_pbm2/project_3_pbm2.runs/synth_1
+# Command line       : vivado.exe -log tb_traffic_light.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source tb_traffic_light.tcl
+# Log file           : C:/Users/divin/OneDrive/Documents/Education/Fall2025/Classes/CSE320/Projects/Project3/project_3_pbm2/project_3_pbm2.runs/synth_1/tb_traffic_light.vds
+# Journal file       : C:/Users/divin/OneDrive/Documents/Education/Fall2025/Classes/CSE320/Projects/Project3/project_3_pbm2/project_3_pbm2.runs/synth_1\vivado.jou
+# Running On         : Divineseed
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Intel(R) Pentium(R) CPU 4417U @ 2.30GHz
+# CPU Frequency      : 2304 MHz
+# CPU Physical cores : 2
+# CPU Logical cores  : 4
+# Host memory        : 17082 MB
+# Swap memory        : 23002 MB
+# Total Virtual      : 40084 MB
+# Available Virtual  : 6657 MB
+#-----------------------------------------------------------
+source tb_traffic_light.tcl -notrace

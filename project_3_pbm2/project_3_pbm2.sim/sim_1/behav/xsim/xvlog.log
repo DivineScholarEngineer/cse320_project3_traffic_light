@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/divin/OneDrive/Documents/Education/Fall2025/Classes/CSE320/Projects/Project3/My_Code/Problem 2/src/traffic_light.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module traffic_light
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/divin/OneDrive/Documents/Education/Fall2025/Classes/CSE320/Projects/Project3/My_Code/Problem 2/tb/tb_traffic_light.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_traffic_light
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/divin/OneDrive/Documents/Education/Fall2025/Classes/CSE320/Projects/Project3/project_3_pbm2/project_3_pbm2.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
